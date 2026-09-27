@@ -66,15 +66,15 @@
       "locked": {
         "lastModified": 1790016115,
         "narHash": "sha256-CK01puC+i6UhC7AdCEAaRvhW/tTan49z6IeEeCxJ+dI=",
-        "ref": "refs/heads/master",
+        "owner": "dmjio",
+        "repo": "miso",
         "rev": "4f1f822cf4b8e57181100ac8f61026ffceb1d571",
-        "revCount": 1953,
-        "type": "git",
-        "url": "ssh://git@github.com/dmjio/miso.git"
+        "type": "github"
       },
       "original": {
-        "type": "git",
-        "url": "ssh://git@github.com/dmjio/miso.git"
+        "owner": "dmjio",
+        "repo": "miso",
+        "type": "github"
       }
     },
     "nixpkgs": {

@@ -1,7 +1,7 @@
 {
 
   inputs = {
-    miso.url = "git+ssh://git@github.com/dmjio/miso.git";
+    miso.url = "github:dmjio/miso";
   };
 
   outputs = inputs:
